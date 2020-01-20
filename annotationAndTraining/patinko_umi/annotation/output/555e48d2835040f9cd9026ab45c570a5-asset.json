@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "png",
+        "id": "555e48d2835040f9cd9026ab45c570a5",
+        "name": "2a_0002.png",
+        "path": "file:D:/%23WorkSpace/%23PersonalDevelop/other/CustomObjectDetection/annotationAndTraining/patinko_umi/annotation/source/2a_0002.png",
+        "size": {
+            "width": 640,
+            "height": 360
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "fDDqWIUNTx",
+            "type": "RECTANGLE",
+            "tags": [
+                "2a"
+            ],
+            "boundingBox": {
+                "height": 191.91176470588235,
+                "width": 160.99241902136458,
+                "left": 346.68504479669195,
+                "top": 49.89430147058823
+            },
+            "points": [
+                {
+                    "x": 346.68504479669195,
+                    "y": 49.89430147058823
+                },
+                {
+                    "x": 507.67746381805654,
+                    "y": 49.89430147058823
+                },
+                {
+                    "x": 507.67746381805654,
+                    "y": 241.80606617647058
+                },
+                {
+                    "x": 346.68504479669195,
+                    "y": 241.80606617647058
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

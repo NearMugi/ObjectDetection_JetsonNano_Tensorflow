@@ -1,0 +1,1729 @@
+{
+    "name": "patinko_umi",
+    "securityToken": "patinko_umi Token",
+    "sourceConnection": {
+        "name": "patinko_source",
+        "providerType": "localFileSystemProxy",
+        "providerOptions": {
+            "encrypted": "eyJjaXBoZXJ0ZXh0IjoiYzY5MmM3ZjAzOTIxZmJlNmE3ZDgzODQ5MjAwNTg5YzBiZjM4N2QxZmE4MjJmNThmOWVmZTUxMTk1OWI3YzNlMmUyNTE0ZjY4YWI1NjJmNTEwNzdiYTY5ZDZiNDdjYTdkNzQ3NzRhYTAwNWQ3N2E0NTExNzMyMTRmNjBjZmJmM2I3ZmRlZWEyNTcxZjk3NGU3YTZhOTkxOGZiMzdiY2Q5ZmZiOTU4M2E2NmYzNGRjNTAxNmU2Y2RmMzhjMDIzNTljMTFiNjZiYjQyNDIyZmQ5NjRjOGZlMzU5ZDkxODMxMGNmNzMyMDhjNDMwNjRjMDY3OTYxMmFjMTVjNzk4MTIzYTE1ODI2OTliZjM1NTVjNjE4NjA3ZDJkZWMxMzU0ODlmIiwiaXYiOiI0OGJhNjRkYmEwMWQ1M2Y1YmI4OWI3OTczMzM5YjhjOGJlMjljMDhiOWMxMmU5OWYifQ=="
+        },
+        "id": "69XeGvZ8m"
+    },
+    "targetConnection": {
+        "name": "patinko_output",
+        "providerType": "localFileSystemProxy",
+        "providerOptions": {
+            "encrypted": "eyJjaXBoZXJ0ZXh0IjoiMWE2MWZmYzIyZmMyZjk3OTc1MzEyMGFkN2RjYWNjMzVhOGU4Y2RlMGE0NGFkZjYwMGVlMTIwMmI3ZjE0MWNiNWY4MmMxZTRhNzJjMzlmY2M1NDI3Y2U2MzJjMTExZTg4OGRjNGIxYjMxNjMwMGVmMjE3ZTlkZjVkZTI1YWU4NGU3YzllNTdiZjlhOTI3YzIwMGVjZDI2M2JjMWM5ZTcyYzkxY2Y4ZDI0NmZkMzAyMTQ1MzcyN2I1ZjFkODk1YzY3ZTE0NzVkN2E1MTU3ZWYyODlkNGY4ODIyZmMwMTFmYjVmYmQ5NGQxMDcxODg1ZDliZGU2NjBjNzAxNzhjN2IwYWM4YTE0NGEwMGNjNmM2YjEyOTA0M2U0YjU5NWUxMTIwIiwiaXYiOiI0NmVjOGU0MmNhMGE1ODMxNjE4MWMxMGM0YTlmMDllYmI3YzkwMjAwYTE2ZWZhMzAifQ=="
+        },
+        "id": "7EQNEK5-c"
+    },
+    "videoSettings": {
+        "frameExtractionRate": 15
+    },
+    "tags": [
+        {
+            "name": "2a",
+            "color": "#000080"
+        },
+        {
+            "name": "button",
+            "color": "#00FF00"
+        }
+    ],
+    "id": "_HRw2-ic5",
+    "activeLearningSettings": {
+        "autoDetect": false,
+        "predictTag": true,
+        "modelPathType": "coco"
+    },
+    "exportFormat": {
+        "providerType": "tensorFlowRecords",
+        "providerOptions": {
+            "encrypted": "eyJjaXBoZXJ0ZXh0IjoiMWRiZjUxMmZjNmU2NTNjYjEwODcxMjU2MjllMjc2ZjhkNWExOWYwYTE4ZDc5NWQ5NmIzNjVjZGE2ZGQwMmY4OCIsIml2IjoiNjQwZTc3ZDMzM2M3MDZlYWI0MWQ1NWEyYjJiMDA1ZTRhOWY1ZTc2MTJiMzgwYWM0In0="
+        }
+    },
+    "version": "2.1.0",
+    "lastVisitedAssetId": "c249e87343855b5c8ed53fdd9ad16696",
+    "assets": {
+        "d18771976cfb0b0b27e9cd043ad66886": {
+            "format": "png",
+            "id": "d18771976cfb0b0b27e9cd043ad66886",
+            "name": "2a_0000.png",
+            "path": "file:D:/%23WorkSpace/%23PersonalDevelop/other/CustomObjectDetection/annotationAndTraining/patinko_umi/annotation/source/2a_0000.png",
+            "size": {
+                "width": 640,
+                "height": 360
+            },
+            "state": 2,
+            "type": 1
+        },
+        "b8351df1dd079ea30a36cdd5aad0c4f4": {
+            "format": "png",
+            "id": "b8351df1dd079ea30a36cdd5aad0c4f4",
+            "name": "2a_0001.png",
+            "path": "file:D:/%23WorkSpace/%23PersonalDevelop/other/CustomObjectDetection/annotationAndTraining/patinko_umi/annotation/source/2a_0001.png",
+            "size": {
+                "width": 640,
+                "height": 360
+            },
+            "state": 2,
+            "type": 1
+        },
+        "555e48d2835040f9cd9026ab45c570a5": {
+            "format": "png",
+            "id": "555e48d2835040f9cd9026ab45c570a5",
+            "name": "2a_0002.png",
+            "path": "file:D:/%23WorkSpace/%23PersonalDevelop/other/CustomObjectDetection/annotationAndTraining/patinko_umi/annotation/source/2a_0002.png",
+            "size": {
+                "width": 640,
+                "height": 360
+            },
+            "state": 2,
+            "type": 1
+        },
+        "d8a71636ee6a0e682d0e8069e6ba01f0": {
+            "format": "png",
+            "id": "d8a71636ee6a0e682d0e8069e6ba01f0",
+            "name": "2a_0003.png",
+            "path": "file:D:/%23WorkSpace/%23PersonalDevelop/other/CustomObjectDetection/annotationAndTraining/patinko_umi/annotation/source/2a_0003.png",
+            "size": {
+                "width": 640,
+                "height": 360
+            },
+            "state": 2,
+            "type": 1
+        },
+        "2868bf5ef3a4f504137f8fa64529e839": {
+            "format": "png",
+            "id": "2868bf5ef3a4f504137f8fa64529e839",
+            "name": "2a_0004.png",
+            "path": "file:D:/%23WorkSpace/%23PersonalDevelop/other/CustomObjectDetection/annotationAndTraining/patinko_umi/annotation/source/2a_0004.png",
+            "size": {
+                "width": 640,
+                "height": 360
+            },
+            "state": 2,
+            "type": 1
+        },
+        "0bf4d0916c5429380e3eed39c97288f7": {
+            "format": "png",
+            "id": "0bf4d0916c5429380e3eed39c97288f7",
+            "name": "2a_0005.png",
+            "path": "file:D:/%23WorkSpace/%23PersonalDevelop/other/CustomObjectDetection/annotationAndTraining/patinko_umi/annotation/source/2a_0005.png",
+            "size": {
+                "width": 640,
+                "height": 360
+            },
+            "state": 2,
+            "type": 1
+        },
+        "4663c823636632375059f5cd0fbe41f0": {
+            "format": "png",
+            "id": "4663c823636632375059f5cd0fbe41f0",
+            "name": "2a_0006.png",
+            "path": "file:D:/%23WorkSpace/%23PersonalDevelop/other/CustomObjectDetection/annotationAndTraining/patinko_umi/annotation/source/2a_0006.png",
+            "size": {
+                "width": 640,
+                "height": 360
+            },
+            "state": 2,
+            "type": 1
+        },
+        "096c615e031ac3d598436a7d455832e1": {
+            "format": "png",
+            "id": "096c615e031ac3d598436a7d455832e1",
+            "name": "2a_0007.png",
+            "path": "file:D:/%23WorkSpace/%23PersonalDevelop/other/CustomObjectDetection/annotationAndTraining/patinko_umi/annotation/source/2a_0007.png",
+            "size": {
+                "width": 640,
+                "height": 360
+            },
+            "state": 2,
+            "type": 1
+        },
+        "8d88d80294bc15338d46d2b0d013952d": {
+            "format": "png",
+            "id": "8d88d80294bc15338d46d2b0d013952d",
+            "name": "2a_0008.png",
+            "path": "file:D:/%23WorkSpace/%23PersonalDevelop/other/CustomObjectDetection/annotationAndTraining/patinko_umi/annotation/source/2a_0008.png",
+            "size": {
+                "width": 640,
+                "height": 360
+            },
+            "state": 2,
+            "type": 1
+        },
+        "ee684493662ddf4f4e65ebd7d60ea626": {
+            "format": "png",
+            "id": "ee684493662ddf4f4e65ebd7d60ea626",
+            "name": "2a_0009.png",
+            "path": "file:D:/%23WorkSpace/%23PersonalDevelop/other/CustomObjectDetection/annotationAndTraining/patinko_umi/annotation/source/2a_0009.png",
+            "size": {
+                "width": 640,
+                "height": 360
+            },
+            "state": 2,
+            "type": 1
+        },
+        "8e32951fa83bdaf05de443a1cf4e0390": {
+            "format": "png",
+            "id": "8e32951fa83bdaf05de443a1cf4e0390",
+            "name": "2a_0010.png",
+            "path": "file:D:/%23WorkSpace/%23PersonalDevelop/other/CustomObjectDetection/annotationAndTraining/patinko_umi/annotation/source/2a_0010.png",
+            "size": {
+                "width": 640,
+                "height": 360
+            },
+            "state": 2,
+            "type": 1
+        },
+        "0b6bac7a8772359f17dbee2116ab1702": {
+            "format": "png",
+            "id": "0b6bac7a8772359f17dbee2116ab1702",
+            "name": "2a_0011.png",
+            "path": "file:D:/%23WorkSpace/%23PersonalDevelop/other/CustomObjectDetection/annotationAndTraining/patinko_umi/annotation/source/2a_0011.png",
+            "size": {
+                "width": 640,
+                "height": 360
+            },
+            "state": 2,
+            "type": 1
+        },
+        "512d2ccaa2fafbdfc9db18c8305a3609": {
+            "format": "png",
+            "id": "512d2ccaa2fafbdfc9db18c8305a3609",
+            "name": "2a_0012.png",
+            "path": "file:D:/%23WorkSpace/%23PersonalDevelop/other/CustomObjectDetection/annotationAndTraining/patinko_umi/annotation/source/2a_0012.png",
+            "size": {
+                "width": 640,
+                "height": 360
+            },
+            "state": 2,
+            "type": 1
+        },
+        "83598bf2d5bd14a52af74fe5491b2fc7": {
+            "format": "png",
+            "id": "83598bf2d5bd14a52af74fe5491b2fc7",
+            "name": "2a_0013.png",
+            "path": "file:D:/%23WorkSpace/%23PersonalDevelop/other/CustomObjectDetection/annotationAndTraining/patinko_umi/annotation/source/2a_0013.png",
+            "size": {
+                "width": 640,
+                "height": 360
+            },
+            "state": 2,
+            "type": 1
+        },
+        "4009ddb1823dce25a120a443a59eec79": {
+            "format": "png",
+            "id": "4009ddb1823dce25a120a443a59eec79",
+            "name": "2a_0014.png",
+            "path": "file:D:/%23WorkSpace/%23PersonalDevelop/other/CustomObjectDetection/annotationAndTraining/patinko_umi/annotation/source/2a_0014.png",
+            "size": {
+                "width": 640,
+                "height": 360
+            },
+            "state": 2,
+            "type": 1
+        },
+        "3e988bbb34847d7099347506df2f7946": {
+            "format": "png",
+            "id": "3e988bbb34847d7099347506df2f7946",
+            "name": "2a_0015.png",
+            "path": "file:D:/%23WorkSpace/%23PersonalDevelop/other/CustomObjectDetection/annotationAndTraining/patinko_umi/annotation/source/2a_0015.png",
+            "size": {
+                "width": 640,
+                "height": 360
+            },
+            "state": 2,
+            "type": 1
+        },
+        "9862b427bf40eb85554b527888dad810": {
+            "format": "png",
+            "id": "9862b427bf40eb85554b527888dad810",
+            "name": "2a_0016.png",
+            "path": "file:D:/%23WorkSpace/%23PersonalDevelop/other/CustomObjectDetection/annotationAndTraining/patinko_umi/annotation/source/2a_0016.png",
+            "size": {
+                "width": 640,
+                "height": 360
+            },
+            "state": 2,
+            "type": 1
+        },
+        "da1b37e2c402a4c2b4f7c46dd823bd03": {
+            "format": "png",
+            "id": "da1b37e2c402a4c2b4f7c46dd823bd03",
+            "name": "2a_0017.png",
+            "path": "file:D:/%23WorkSpace/%23PersonalDevelop/other/CustomObjectDetection/annotationAndTraining/patinko_umi/annotation/source/2a_0017.png",
+            "size": {
+                "width": 640,
+                "height": 360
+            },
+            "state": 2,
+            "type": 1
+        },
+        "f7bb7f3fd054fe0385f4d73b5ec80471": {
+            "format": "png",
+            "id": "f7bb7f3fd054fe0385f4d73b5ec80471",
+            "name": "2a_0018.png",
+            "path": "file:D:/%23WorkSpace/%23PersonalDevelop/other/CustomObjectDetection/annotationAndTraining/patinko_umi/annotation/source/2a_0018.png",
+            "size": {
+                "width": 640,
+                "height": 360
+            },
+            "state": 2,
+            "type": 1
+        },
+        "1417b852b5fb47ffaabf7c08af382bce": {
+            "format": "png",
+            "id": "1417b852b5fb47ffaabf7c08af382bce",
+            "name": "2a_0019.png",
+            "path": "file:D:/%23WorkSpace/%23PersonalDevelop/other/CustomObjectDetection/annotationAndTraining/patinko_umi/annotation/source/2a_0019.png",
+            "size": {
+                "width": 640,
+                "height": 360
+            },
+            "state": 2,
+            "type": 1
+        },
+        "e73cdc78e6b967e0063d2f2eca426184": {
+            "format": "png",
+            "id": "e73cdc78e6b967e0063d2f2eca426184",
+            "name": "2a_0020.png",
+            "path": "file:D:/%23WorkSpace/%23PersonalDevelop/other/CustomObjectDetection/annotationAndTraining/patinko_umi/annotation/source/2a_0020.png",
+            "size": {
+                "width": 640,
+                "height": 360
+            },
+            "state": 2,
+            "type": 1
+        },
+        "6d2c2732279e3010f5ac300bb09ac5b7": {
+            "format": "png",
+            "id": "6d2c2732279e3010f5ac300bb09ac5b7",
+            "name": "2a_0021.png",
+            "path": "file:D:/%23WorkSpace/%23PersonalDevelop/other/CustomObjectDetection/annotationAndTraining/patinko_umi/annotation/source/2a_0021.png",
+            "size": {
+                "width": 640,
+                "height": 360
+            },
+            "state": 2,
+            "type": 1
+        },
+        "aa8b10932db3708bb13066d5766d869f": {
+            "format": "png",
+            "id": "aa8b10932db3708bb13066d5766d869f",
+            "name": "2a_0022.png",
+            "path": "file:D:/%23WorkSpace/%23PersonalDevelop/other/CustomObjectDetection/annotationAndTraining/patinko_umi/annotation/source/2a_0022.png",
+            "size": {
+                "width": 640,
+                "height": 360
+            },
+            "state": 2,
+            "type": 1
+        },
+        "0ed811e7cd9740f7c1b12378e560c008": {
+            "format": "png",
+            "id": "0ed811e7cd9740f7c1b12378e560c008",
+            "name": "2a_0023.png",
+            "path": "file:D:/%23WorkSpace/%23PersonalDevelop/other/CustomObjectDetection/annotationAndTraining/patinko_umi/annotation/source/2a_0023.png",
+            "size": {
+                "width": 640,
+                "height": 360
+            },
+            "state": 2,
+            "type": 1
+        },
+        "25c64a4d77eb59b7ccb954cd41fe20be": {
+            "format": "png",
+            "id": "25c64a4d77eb59b7ccb954cd41fe20be",
+            "name": "2a_0024.png",
+            "path": "file:D:/%23WorkSpace/%23PersonalDevelop/other/CustomObjectDetection/annotationAndTraining/patinko_umi/annotation/source/2a_0024.png",
+            "size": {
+                "width": 640,
+                "height": 360
+            },
+            "state": 2,
+            "type": 1
+        },
+        "e1f586a0dcbe0ab95325e72072ae1c9b": {
+            "format": "png",
+            "id": "e1f586a0dcbe0ab95325e72072ae1c9b",
+            "name": "2a_0025.png",
+            "path": "file:D:/%23WorkSpace/%23PersonalDevelop/other/CustomObjectDetection/annotationAndTraining/patinko_umi/annotation/source/2a_0025.png",
+            "size": {
+                "width": 640,
+                "height": 360
+            },
+            "state": 2,
+            "type": 1
+        },
+        "7cd6a1cc9d190fc0cd97233d460e9235": {
+            "format": "png",
+            "id": "7cd6a1cc9d190fc0cd97233d460e9235",
+            "name": "2a_0026.png",
+            "path": "file:D:/%23WorkSpace/%23PersonalDevelop/other/CustomObjectDetection/annotationAndTraining/patinko_umi/annotation/source/2a_0026.png",
+            "size": {
+                "width": 640,
+                "height": 360
+            },
+            "state": 2,
+            "type": 1
+        },
+        "2d24f3cf3f7fc54e65fbcfb6db681d7b": {
+            "format": "png",
+            "id": "2d24f3cf3f7fc54e65fbcfb6db681d7b",
+            "name": "2a_0027.png",
+            "path": "file:D:/%23WorkSpace/%23PersonalDevelop/other/CustomObjectDetection/annotationAndTraining/patinko_umi/annotation/source/2a_0027.png",
+            "size": {
+                "width": 640,
+                "height": 360
+            },
+            "state": 2,
+            "type": 1
+        },
+        "dbd26ffe6a5d667295129bc2162fd91c": {
+            "format": "png",
+            "id": "dbd26ffe6a5d667295129bc2162fd91c",
+            "name": "2a_0028.png",
+            "path": "file:D:/%23WorkSpace/%23PersonalDevelop/other/CustomObjectDetection/annotationAndTraining/patinko_umi/annotation/source/2a_0028.png",
+            "size": {
+                "width": 640,
+                "height": 360
+            },
+            "state": 2,
+            "type": 1
+        },
+        "244750766325baeeab3be50c254facb8": {
+            "format": "png",
+            "id": "244750766325baeeab3be50c254facb8",
+            "name": "2a_0029.png",
+            "path": "file:D:/%23WorkSpace/%23PersonalDevelop/other/CustomObjectDetection/annotationAndTraining/patinko_umi/annotation/source/2a_0029.png",
+            "size": {
+                "width": 640,
+                "height": 360
+            },
+            "state": 2,
+            "type": 1
+        },
+        "3a21441eadb3fc128804046ea6c5bfd9": {
+            "format": "png",
+            "id": "3a21441eadb3fc128804046ea6c5bfd9",
+            "name": "2a_0030.png",
+            "path": "file:D:/%23WorkSpace/%23PersonalDevelop/other/CustomObjectDetection/annotationAndTraining/patinko_umi/annotation/source/2a_0030.png",
+            "size": {
+                "width": 640,
+                "height": 360
+            },
+            "state": 2,
+            "type": 1
+        },
+        "f23c4d71b411f11e8a92620816df4322": {
+            "format": "png",
+            "id": "f23c4d71b411f11e8a92620816df4322",
+            "name": "2a_0031.png",
+            "path": "file:D:/%23WorkSpace/%23PersonalDevelop/other/CustomObjectDetection/annotationAndTraining/patinko_umi/annotation/source/2a_0031.png",
+            "size": {
+                "width": 640,
+                "height": 360
+            },
+            "state": 2,
+            "type": 1
+        },
+        "a0fd0b60986f0d0bf7516dde8d973fa1": {
+            "format": "png",
+            "id": "a0fd0b60986f0d0bf7516dde8d973fa1",
+            "name": "2a_0032.png",
+            "path": "file:D:/%23WorkSpace/%23PersonalDevelop/other/CustomObjectDetection/annotationAndTraining/patinko_umi/annotation/source/2a_0032.png",
+            "size": {
+                "width": 640,
+                "height": 360
+            },
+            "state": 2,
+            "type": 1
+        },
+        "69aafb35d4dde5c524494e4e700ff232": {
+            "format": "png",
+            "id": "69aafb35d4dde5c524494e4e700ff232",
+            "name": "2a_0033.png",
+            "path": "file:D:/%23WorkSpace/%23PersonalDevelop/other/CustomObjectDetection/annotationAndTraining/patinko_umi/annotation/source/2a_0033.png",
+            "size": {
+                "width": 640,
+                "height": 360
+            },
+            "state": 2,
+            "type": 1
+        },
+        "79d7824a496a97a776dfda87ddd19df5": {
+            "format": "png",
+            "id": "79d7824a496a97a776dfda87ddd19df5",
+            "name": "2a_0034.png",
+            "path": "file:D:/%23WorkSpace/%23PersonalDevelop/other/CustomObjectDetection/annotationAndTraining/patinko_umi/annotation/source/2a_0034.png",
+            "size": {
+                "width": 640,
+                "height": 360
+            },
+            "state": 2,
+            "type": 1
+        },
+        "db76a53bf60f6e74499682447f6a40c9": {
+            "format": "png",
+            "id": "db76a53bf60f6e74499682447f6a40c9",
+            "name": "2a_0035.png",
+            "path": "file:D:/%23WorkSpace/%23PersonalDevelop/other/CustomObjectDetection/annotationAndTraining/patinko_umi/annotation/source/2a_0035.png",
+            "size": {
+                "width": 640,
+                "height": 360
+            },
+            "state": 2,
+            "type": 1
+        },
+        "4d81ef7c16c3ed66aaaeb9c3d017a8a0": {
+            "format": "png",
+            "id": "4d81ef7c16c3ed66aaaeb9c3d017a8a0",
+            "name": "2a_0036.png",
+            "path": "file:D:/%23WorkSpace/%23PersonalDevelop/other/CustomObjectDetection/annotationAndTraining/patinko_umi/annotation/source/2a_0036.png",
+            "size": {
+                "width": 640,
+                "height": 360
+            },
+            "state": 2,
+            "type": 1
+        },
+        "b11afa949e45e2a5811df096ba659312": {
+            "format": "png",
+            "id": "b11afa949e45e2a5811df096ba659312",
+            "name": "2a_0037.png",
+            "path": "file:D:/%23WorkSpace/%23PersonalDevelop/other/CustomObjectDetection/annotationAndTraining/patinko_umi/annotation/source/2a_0037.png",
+            "size": {
+                "width": 640,
+                "height": 360
+            },
+            "state": 2,
+            "type": 1
+        },
+        "51acf585de9d66dd152ce796f93947dc": {
+            "format": "png",
+            "id": "51acf585de9d66dd152ce796f93947dc",
+            "name": "2a_0038.png",
+            "path": "file:D:/%23WorkSpace/%23PersonalDevelop/other/CustomObjectDetection/annotationAndTraining/patinko_umi/annotation/source/2a_0038.png",
+            "size": {
+                "width": 640,
+                "height": 360
+            },
+            "state": 2,
+            "type": 1
+        },
+        "74dad0bc8f87838514d2f887feafe9c4": {
+            "format": "png",
+            "id": "74dad0bc8f87838514d2f887feafe9c4",
+            "name": "2a_0039.png",
+            "path": "file:D:/%23WorkSpace/%23PersonalDevelop/other/CustomObjectDetection/annotationAndTraining/patinko_umi/annotation/source/2a_0039.png",
+            "size": {
+                "width": 640,
+                "height": 360
+            },
+            "state": 2,
+            "type": 1
+        },
+        "88bc0bb2e8cf015516562374f2dc36f2": {
+            "format": "png",
+            "id": "88bc0bb2e8cf015516562374f2dc36f2",
+            "name": "2a_0040.png",
+            "path": "file:D:/%23WorkSpace/%23PersonalDevelop/other/CustomObjectDetection/annotationAndTraining/patinko_umi/annotation/source/2a_0040.png",
+            "size": {
+                "width": 640,
+                "height": 360
+            },
+            "state": 2,
+            "type": 1
+        },
+        "874592981c2e7badff0353eda3af976c": {
+            "format": "png",
+            "id": "874592981c2e7badff0353eda3af976c",
+            "name": "2a_0041.png",
+            "path": "file:D:/%23WorkSpace/%23PersonalDevelop/other/CustomObjectDetection/annotationAndTraining/patinko_umi/annotation/source/2a_0041.png",
+            "size": {
+                "width": 640,
+                "height": 360
+            },
+            "state": 2,
+            "type": 1
+        },
+        "bfb48b99bed705abb5a8255baae85c2b": {
+            "format": "png",
+            "id": "bfb48b99bed705abb5a8255baae85c2b",
+            "name": "2a_0042.png",
+            "path": "file:D:/%23WorkSpace/%23PersonalDevelop/other/CustomObjectDetection/annotationAndTraining/patinko_umi/annotation/source/2a_0042.png",
+            "size": {
+                "width": 640,
+                "height": 360
+            },
+            "state": 2,
+            "type": 1
+        },
+        "09269eeadc7d94ed48f588cf48c3105a": {
+            "format": "png",
+            "id": "09269eeadc7d94ed48f588cf48c3105a",
+            "name": "2a_0043.png",
+            "path": "file:D:/%23WorkSpace/%23PersonalDevelop/other/CustomObjectDetection/annotationAndTraining/patinko_umi/annotation/source/2a_0043.png",
+            "size": {
+                "width": 640,
+                "height": 360
+            },
+            "state": 2,
+            "type": 1
+        },
+        "17a3870f9cd3b3a61f5229728f5cb52d": {
+            "format": "png",
+            "id": "17a3870f9cd3b3a61f5229728f5cb52d",
+            "name": "2a_0044.png",
+            "path": "file:D:/%23WorkSpace/%23PersonalDevelop/other/CustomObjectDetection/annotationAndTraining/patinko_umi/annotation/source/2a_0044.png",
+            "size": {
+                "width": 640,
+                "height": 360
+            },
+            "state": 2,
+            "type": 1
+        },
+        "d55e41c44390d7fe4e9b6903c9eaeaaa": {
+            "format": "png",
+            "id": "d55e41c44390d7fe4e9b6903c9eaeaaa",
+            "name": "2a_0045.png",
+            "path": "file:D:/%23WorkSpace/%23PersonalDevelop/other/CustomObjectDetection/annotationAndTraining/patinko_umi/annotation/source/2a_0045.png",
+            "size": {
+                "width": 640,
+                "height": 360
+            },
+            "state": 2,
+            "type": 1
+        },
+        "2cc117533ab21f2b8f9dd3f9eac91c90": {
+            "format": "png",
+            "id": "2cc117533ab21f2b8f9dd3f9eac91c90",
+            "name": "2a_0046.png",
+            "path": "file:D:/%23WorkSpace/%23PersonalDevelop/other/CustomObjectDetection/annotationAndTraining/patinko_umi/annotation/source/2a_0046.png",
+            "size": {
+                "width": 640,
+                "height": 360
+            },
+            "state": 2,
+            "type": 1
+        },
+        "7ad8c80447e63231d6ff3b0e1dd0669f": {
+            "format": "png",
+            "id": "7ad8c80447e63231d6ff3b0e1dd0669f",
+            "name": "2a_0047.png",
+            "path": "file:D:/%23WorkSpace/%23PersonalDevelop/other/CustomObjectDetection/annotationAndTraining/patinko_umi/annotation/source/2a_0047.png",
+            "size": {
+                "width": 640,
+                "height": 360
+            },
+            "state": 2,
+            "type": 1
+        },
+        "bad0e4093939edd56d08ae6f0a151c70": {
+            "format": "png",
+            "id": "bad0e4093939edd56d08ae6f0a151c70",
+            "name": "2a_0048.png",
+            "path": "file:D:/%23WorkSpace/%23PersonalDevelop/other/CustomObjectDetection/annotationAndTraining/patinko_umi/annotation/source/2a_0048.png",
+            "size": {
+                "width": 640,
+                "height": 360
+            },
+            "state": 2,
+            "type": 1
+        },
+        "2e64c844968066ede8b8b0e9dbb5c0a2": {
+            "format": "png",
+            "id": "2e64c844968066ede8b8b0e9dbb5c0a2",
+            "name": "2a_0049.png",
+            "path": "file:D:/%23WorkSpace/%23PersonalDevelop/other/CustomObjectDetection/annotationAndTraining/patinko_umi/annotation/source/2a_0049.png",
+            "size": {
+                "width": 640,
+                "height": 360
+            },
+            "state": 2,
+            "type": 1
+        },
+        "5b7e9135f08f3c955e35d4a29a1f029b": {
+            "format": "png",
+            "id": "5b7e9135f08f3c955e35d4a29a1f029b",
+            "name": "2a_0050.png",
+            "path": "file:D:/%23WorkSpace/%23PersonalDevelop/other/CustomObjectDetection/annotationAndTraining/patinko_umi/annotation/source/2a_0050.png",
+            "size": {
+                "width": 640,
+                "height": 360
+            },
+            "state": 2,
+            "type": 1
+        },
+        "45645c1bd0619cb206e721376761bb28": {
+            "format": "png",
+            "id": "45645c1bd0619cb206e721376761bb28",
+            "name": "2a_0051.png",
+            "path": "file:D:/%23WorkSpace/%23PersonalDevelop/other/CustomObjectDetection/annotationAndTraining/patinko_umi/annotation/source/2a_0051.png",
+            "size": {
+                "width": 640,
+                "height": 360
+            },
+            "state": 2,
+            "type": 1
+        },
+        "a46f11abe425220969d4b104a95ecd3c": {
+            "format": "png",
+            "id": "a46f11abe425220969d4b104a95ecd3c",
+            "name": "2a_0052.png",
+            "path": "file:D:/%23WorkSpace/%23PersonalDevelop/other/CustomObjectDetection/annotationAndTraining/patinko_umi/annotation/source/2a_0052.png",
+            "size": {
+                "width": 640,
+                "height": 360
+            },
+            "state": 2,
+            "type": 1
+        },
+        "5d8f29eb4391734111034785fb05893c": {
+            "format": "png",
+            "id": "5d8f29eb4391734111034785fb05893c",
+            "name": "2a_0053.png",
+            "path": "file:D:/%23WorkSpace/%23PersonalDevelop/other/CustomObjectDetection/annotationAndTraining/patinko_umi/annotation/source/2a_0053.png",
+            "size": {
+                "width": 640,
+                "height": 360
+            },
+            "state": 2,
+            "type": 1
+        },
+        "f95f7da090227f320b0ff2fbd4f98973": {
+            "format": "png",
+            "id": "f95f7da090227f320b0ff2fbd4f98973",
+            "name": "2a_0054.png",
+            "path": "file:D:/%23WorkSpace/%23PersonalDevelop/other/CustomObjectDetection/annotationAndTraining/patinko_umi/annotation/source/2a_0054.png",
+            "size": {
+                "width": 640,
+                "height": 360
+            },
+            "state": 2,
+            "type": 1
+        },
+        "4b25fd5bfa27d72a12b764ca07fde2ec": {
+            "format": "png",
+            "id": "4b25fd5bfa27d72a12b764ca07fde2ec",
+            "name": "2a_0055.png",
+            "path": "file:D:/%23WorkSpace/%23PersonalDevelop/other/CustomObjectDetection/annotationAndTraining/patinko_umi/annotation/source/2a_0055.png",
+            "size": {
+                "width": 640,
+                "height": 360
+            },
+            "state": 2,
+            "type": 1
+        },
+        "d1bfb3fbaaace081d1cc7a641d4efc4a": {
+            "format": "png",
+            "id": "d1bfb3fbaaace081d1cc7a641d4efc4a",
+            "name": "2a_0056.png",
+            "path": "file:D:/%23WorkSpace/%23PersonalDevelop/other/CustomObjectDetection/annotationAndTraining/patinko_umi/annotation/source/2a_0056.png",
+            "size": {
+                "width": 640,
+                "height": 360
+            },
+            "state": 2,
+            "type": 1
+        },
+        "8cb643d8b3327635375bd71410876bd4": {
+            "format": "png",
+            "id": "8cb643d8b3327635375bd71410876bd4",
+            "name": "2a_0057.png",
+            "path": "file:D:/%23WorkSpace/%23PersonalDevelop/other/CustomObjectDetection/annotationAndTraining/patinko_umi/annotation/source/2a_0057.png",
+            "size": {
+                "width": 640,
+                "height": 360
+            },
+            "state": 2,
+            "type": 1
+        },
+        "972dcf7ad05ed74115065a5699984cc4": {
+            "format": "png",
+            "id": "972dcf7ad05ed74115065a5699984cc4",
+            "name": "2a_0058.png",
+            "path": "file:D:/%23WorkSpace/%23PersonalDevelop/other/CustomObjectDetection/annotationAndTraining/patinko_umi/annotation/source/2a_0058.png",
+            "size": {
+                "width": 640,
+                "height": 360
+            },
+            "state": 2,
+            "type": 1
+        },
+        "457b523ad2801f8126e5fb636493e0c0": {
+            "format": "png",
+            "id": "457b523ad2801f8126e5fb636493e0c0",
+            "name": "2a_0059.png",
+            "path": "file:D:/%23WorkSpace/%23PersonalDevelop/other/CustomObjectDetection/annotationAndTraining/patinko_umi/annotation/source/2a_0059.png",
+            "size": {
+                "width": 640,
+                "height": 360
+            },
+            "state": 2,
+            "type": 1
+        },
+        "b41a2edf0ccb4c248cfc46f39a7c09b7": {
+            "format": "png",
+            "id": "b41a2edf0ccb4c248cfc46f39a7c09b7",
+            "name": "2a_0060.png",
+            "path": "file:D:/%23WorkSpace/%23PersonalDevelop/other/CustomObjectDetection/annotationAndTraining/patinko_umi/annotation/source/2a_0060.png",
+            "size": {
+                "width": 640,
+                "height": 360
+            },
+            "state": 2,
+            "type": 1
+        },
+        "b083d5985e4f3a8faaa67b9ce22a8c2c": {
+            "format": "png",
+            "id": "b083d5985e4f3a8faaa67b9ce22a8c2c",
+            "name": "2a_0061.png",
+            "path": "file:D:/%23WorkSpace/%23PersonalDevelop/other/CustomObjectDetection/annotationAndTraining/patinko_umi/annotation/source/2a_0061.png",
+            "size": {
+                "width": 640,
+                "height": 360
+            },
+            "state": 2,
+            "type": 1
+        },
+        "05a260b95af6445fdd5e3c7829dd470e": {
+            "format": "png",
+            "id": "05a260b95af6445fdd5e3c7829dd470e",
+            "name": "2a_0062.png",
+            "path": "file:D:/%23WorkSpace/%23PersonalDevelop/other/CustomObjectDetection/annotationAndTraining/patinko_umi/annotation/source/2a_0062.png",
+            "size": {
+                "width": 640,
+                "height": 360
+            },
+            "state": 2,
+            "type": 1
+        },
+        "36e50b0d85ad2ae97a9346d37f38cfc4": {
+            "format": "png",
+            "id": "36e50b0d85ad2ae97a9346d37f38cfc4",
+            "name": "2a_0063.png",
+            "path": "file:D:/%23WorkSpace/%23PersonalDevelop/other/CustomObjectDetection/annotationAndTraining/patinko_umi/annotation/source/2a_0063.png",
+            "size": {
+                "width": 640,
+                "height": 360
+            },
+            "state": 2,
+            "type": 1
+        },
+        "bebe33865e4b90c3d575a352e9d5225c": {
+            "format": "png",
+            "id": "bebe33865e4b90c3d575a352e9d5225c",
+            "name": "2a_0064.png",
+            "path": "file:D:/%23WorkSpace/%23PersonalDevelop/other/CustomObjectDetection/annotationAndTraining/patinko_umi/annotation/source/2a_0064.png",
+            "size": {
+                "width": 640,
+                "height": 360
+            },
+            "state": 2,
+            "type": 1
+        },
+        "f7ce168ef9e8b955b9acbea317402708": {
+            "format": "png",
+            "id": "f7ce168ef9e8b955b9acbea317402708",
+            "name": "2a_0065.png",
+            "path": "file:D:/%23WorkSpace/%23PersonalDevelop/other/CustomObjectDetection/annotationAndTraining/patinko_umi/annotation/source/2a_0065.png",
+            "size": {
+                "width": 640,
+                "height": 360
+            },
+            "state": 2,
+            "type": 1
+        },
+        "ac61d89315eebab0d930b63e3bdab0cb": {
+            "format": "png",
+            "id": "ac61d89315eebab0d930b63e3bdab0cb",
+            "name": "2a_0066.png",
+            "path": "file:D:/%23WorkSpace/%23PersonalDevelop/other/CustomObjectDetection/annotationAndTraining/patinko_umi/annotation/source/2a_0066.png",
+            "size": {
+                "width": 640,
+                "height": 360
+            },
+            "state": 2,
+            "type": 1
+        },
+        "714d140c6e1838559e14ce23956858e5": {
+            "format": "png",
+            "id": "714d140c6e1838559e14ce23956858e5",
+            "name": "2a_0067.png",
+            "path": "file:D:/%23WorkSpace/%23PersonalDevelop/other/CustomObjectDetection/annotationAndTraining/patinko_umi/annotation/source/2a_0067.png",
+            "size": {
+                "width": 640,
+                "height": 360
+            },
+            "state": 2,
+            "type": 1
+        },
+        "60cefa8ac93dac4d3789b6674afc3ac8": {
+            "format": "png",
+            "id": "60cefa8ac93dac4d3789b6674afc3ac8",
+            "name": "2a_0068.png",
+            "path": "file:D:/%23WorkSpace/%23PersonalDevelop/other/CustomObjectDetection/annotationAndTraining/patinko_umi/annotation/source/2a_0068.png",
+            "size": {
+                "width": 640,
+                "height": 360
+            },
+            "state": 2,
+            "type": 1
+        },
+        "78bc42901f96069934291970aee3d92e": {
+            "format": "png",
+            "id": "78bc42901f96069934291970aee3d92e",
+            "name": "2a_0069.png",
+            "path": "file:D:/%23WorkSpace/%23PersonalDevelop/other/CustomObjectDetection/annotationAndTraining/patinko_umi/annotation/source/2a_0069.png",
+            "size": {
+                "width": 640,
+                "height": 360
+            },
+            "state": 2,
+            "type": 1
+        },
+        "dfe977cf2fd01a3643658b8dc96356c1": {
+            "format": "png",
+            "id": "dfe977cf2fd01a3643658b8dc96356c1",
+            "name": "b_0000.png",
+            "path": "file:D:/%23WorkSpace/%23PersonalDevelop/other/CustomObjectDetection/annotationAndTraining/patinko_umi/annotation/source/b_0000.png",
+            "size": {
+                "width": 640,
+                "height": 360
+            },
+            "state": 2,
+            "type": 1
+        },
+        "1e31a39aff102fba42e03f6674e67836": {
+            "format": "png",
+            "id": "1e31a39aff102fba42e03f6674e67836",
+            "name": "b_0001.png",
+            "path": "file:D:/%23WorkSpace/%23PersonalDevelop/other/CustomObjectDetection/annotationAndTraining/patinko_umi/annotation/source/b_0001.png",
+            "size": {
+                "width": 640,
+                "height": 360
+            },
+            "state": 2,
+            "type": 1
+        },
+        "79b4defa74b54209220a8e4fd09e34f3": {
+            "format": "png",
+            "id": "79b4defa74b54209220a8e4fd09e34f3",
+            "name": "b_0002.png",
+            "path": "file:D:/%23WorkSpace/%23PersonalDevelop/other/CustomObjectDetection/annotationAndTraining/patinko_umi/annotation/source/b_0002.png",
+            "size": {
+                "width": 640,
+                "height": 360
+            },
+            "state": 2,
+            "type": 1
+        },
+        "894174dd0ff5edce7e957b2c4aa7b208": {
+            "format": "png",
+            "id": "894174dd0ff5edce7e957b2c4aa7b208",
+            "name": "b_0003.png",
+            "path": "file:D:/%23WorkSpace/%23PersonalDevelop/other/CustomObjectDetection/annotationAndTraining/patinko_umi/annotation/source/b_0003.png",
+            "size": {
+                "width": 640,
+                "height": 360
+            },
+            "state": 2,
+            "type": 1
+        },
+        "b09fad58253e64956c9ff2246ec76e18": {
+            "format": "png",
+            "id": "b09fad58253e64956c9ff2246ec76e18",
+            "name": "b_0004.png",
+            "path": "file:D:/%23WorkSpace/%23PersonalDevelop/other/CustomObjectDetection/annotationAndTraining/patinko_umi/annotation/source/b_0004.png",
+            "size": {
+                "width": 640,
+                "height": 360
+            },
+            "state": 2,
+            "type": 1
+        },
+        "439256866610c629997cd5212dac9bd3": {
+            "format": "png",
+            "id": "439256866610c629997cd5212dac9bd3",
+            "name": "b_0005.png",
+            "path": "file:D:/%23WorkSpace/%23PersonalDevelop/other/CustomObjectDetection/annotationAndTraining/patinko_umi/annotation/source/b_0005.png",
+            "size": {
+                "width": 640,
+                "height": 360
+            },
+            "state": 2,
+            "type": 1
+        },
+        "7543afe2053ec41e94d205f30ae89147": {
+            "format": "png",
+            "id": "7543afe2053ec41e94d205f30ae89147",
+            "name": "b_0006.png",
+            "path": "file:D:/%23WorkSpace/%23PersonalDevelop/other/CustomObjectDetection/annotationAndTraining/patinko_umi/annotation/source/b_0006.png",
+            "size": {
+                "width": 640,
+                "height": 360
+            },
+            "state": 2,
+            "type": 1
+        },
+        "29234db289949b1a9be11f49ca8527a7": {
+            "format": "png",
+            "id": "29234db289949b1a9be11f49ca8527a7",
+            "name": "b_0007.png",
+            "path": "file:D:/%23WorkSpace/%23PersonalDevelop/other/CustomObjectDetection/annotationAndTraining/patinko_umi/annotation/source/b_0007.png",
+            "size": {
+                "width": 640,
+                "height": 360
+            },
+            "state": 2,
+            "type": 1
+        },
+        "abcaee79711372d82bb197bcdeae795d": {
+            "format": "png",
+            "id": "abcaee79711372d82bb197bcdeae795d",
+            "name": "b_0008.png",
+            "path": "file:D:/%23WorkSpace/%23PersonalDevelop/other/CustomObjectDetection/annotationAndTraining/patinko_umi/annotation/source/b_0008.png",
+            "size": {
+                "width": 640,
+                "height": 360
+            },
+            "state": 2,
+            "type": 1
+        },
+        "9483a2c1e913f5c7f83345373e2d3ba9": {
+            "format": "png",
+            "id": "9483a2c1e913f5c7f83345373e2d3ba9",
+            "name": "b_0009.png",
+            "path": "file:D:/%23WorkSpace/%23PersonalDevelop/other/CustomObjectDetection/annotationAndTraining/patinko_umi/annotation/source/b_0009.png",
+            "size": {
+                "width": 640,
+                "height": 360
+            },
+            "state": 2,
+            "type": 1
+        },
+        "928da6eb97e146de7e1c66ac832fa18f": {
+            "format": "png",
+            "id": "928da6eb97e146de7e1c66ac832fa18f",
+            "name": "b_0010.png",
+            "path": "file:D:/%23WorkSpace/%23PersonalDevelop/other/CustomObjectDetection/annotationAndTraining/patinko_umi/annotation/source/b_0010.png",
+            "size": {
+                "width": 640,
+                "height": 360
+            },
+            "state": 2,
+            "type": 1
+        },
+        "9584602c616f4670497147eb833b0144": {
+            "format": "png",
+            "id": "9584602c616f4670497147eb833b0144",
+            "name": "b_0011.png",
+            "path": "file:D:/%23WorkSpace/%23PersonalDevelop/other/CustomObjectDetection/annotationAndTraining/patinko_umi/annotation/source/b_0011.png",
+            "size": {
+                "width": 640,
+                "height": 360
+            },
+            "state": 2,
+            "type": 1
+        },
+        "4832f0e3f0c735bee3817aae85093d4a": {
+            "format": "png",
+            "id": "4832f0e3f0c735bee3817aae85093d4a",
+            "name": "b_0012.png",
+            "path": "file:D:/%23WorkSpace/%23PersonalDevelop/other/CustomObjectDetection/annotationAndTraining/patinko_umi/annotation/source/b_0012.png",
+            "size": {
+                "width": 640,
+                "height": 360
+            },
+            "state": 2,
+            "type": 1
+        },
+        "2e1a9d580620167dad390ea2691a317e": {
+            "format": "png",
+            "id": "2e1a9d580620167dad390ea2691a317e",
+            "name": "b_0013.png",
+            "path": "file:D:/%23WorkSpace/%23PersonalDevelop/other/CustomObjectDetection/annotationAndTraining/patinko_umi/annotation/source/b_0013.png",
+            "size": {
+                "width": 640,
+                "height": 360
+            },
+            "state": 2,
+            "type": 1
+        },
+        "521e0b3fcf65756243f852900f8ff47e": {
+            "format": "png",
+            "id": "521e0b3fcf65756243f852900f8ff47e",
+            "name": "b_0014.png",
+            "path": "file:D:/%23WorkSpace/%23PersonalDevelop/other/CustomObjectDetection/annotationAndTraining/patinko_umi/annotation/source/b_0014.png",
+            "size": {
+                "width": 640,
+                "height": 360
+            },
+            "state": 2,
+            "type": 1
+        },
+        "f6f66a7aa5348f18cc57f675cbb0b735": {
+            "format": "png",
+            "id": "f6f66a7aa5348f18cc57f675cbb0b735",
+            "name": "b_0015.png",
+            "path": "file:D:/%23WorkSpace/%23PersonalDevelop/other/CustomObjectDetection/annotationAndTraining/patinko_umi/annotation/source/b_0015.png",
+            "size": {
+                "width": 640,
+                "height": 360
+            },
+            "state": 2,
+            "type": 1
+        },
+        "31a5cbd537223a5e8d27e5ab711949cc": {
+            "format": "png",
+            "id": "31a5cbd537223a5e8d27e5ab711949cc",
+            "name": "b_0016.png",
+            "path": "file:D:/%23WorkSpace/%23PersonalDevelop/other/CustomObjectDetection/annotationAndTraining/patinko_umi/annotation/source/b_0016.png",
+            "size": {
+                "width": 640,
+                "height": 360
+            },
+            "state": 2,
+            "type": 1
+        },
+        "a7d262887ef7ce0a13fb3a638d27510f": {
+            "format": "png",
+            "id": "a7d262887ef7ce0a13fb3a638d27510f",
+            "name": "b_0017.png",
+            "path": "file:D:/%23WorkSpace/%23PersonalDevelop/other/CustomObjectDetection/annotationAndTraining/patinko_umi/annotation/source/b_0017.png",
+            "size": {
+                "width": 640,
+                "height": 360
+            },
+            "state": 2,
+            "type": 1
+        },
+        "9192d71b61694d8f0994e9a7464158fa": {
+            "format": "png",
+            "id": "9192d71b61694d8f0994e9a7464158fa",
+            "name": "b_0018.png",
+            "path": "file:D:/%23WorkSpace/%23PersonalDevelop/other/CustomObjectDetection/annotationAndTraining/patinko_umi/annotation/source/b_0018.png",
+            "size": {
+                "width": 640,
+                "height": 360
+            },
+            "state": 2,
+            "type": 1
+        },
+        "ddbae266aa78156f5c34378c58f5272b": {
+            "format": "png",
+            "id": "ddbae266aa78156f5c34378c58f5272b",
+            "name": "b_0019.png",
+            "path": "file:D:/%23WorkSpace/%23PersonalDevelop/other/CustomObjectDetection/annotationAndTraining/patinko_umi/annotation/source/b_0019.png",
+            "size": {
+                "width": 640,
+                "height": 360
+            },
+            "state": 2,
+            "type": 1
+        },
+        "69aee30c65a3321aafe4eeaca4f29163": {
+            "format": "png",
+            "id": "69aee30c65a3321aafe4eeaca4f29163",
+            "name": "b_0020.png",
+            "path": "file:D:/%23WorkSpace/%23PersonalDevelop/other/CustomObjectDetection/annotationAndTraining/patinko_umi/annotation/source/b_0020.png",
+            "size": {
+                "width": 640,
+                "height": 360
+            },
+            "state": 2,
+            "type": 1
+        },
+        "a4a5eebd4702e12e424bbe7cb3373171": {
+            "format": "png",
+            "id": "a4a5eebd4702e12e424bbe7cb3373171",
+            "name": "b_0021.png",
+            "path": "file:D:/%23WorkSpace/%23PersonalDevelop/other/CustomObjectDetection/annotationAndTraining/patinko_umi/annotation/source/b_0021.png",
+            "size": {
+                "width": 640,
+                "height": 360
+            },
+            "state": 2,
+            "type": 1
+        },
+        "8d8afd8024655b7ece83df1b418860a6": {
+            "format": "png",
+            "id": "8d8afd8024655b7ece83df1b418860a6",
+            "name": "b_0022.png",
+            "path": "file:D:/%23WorkSpace/%23PersonalDevelop/other/CustomObjectDetection/annotationAndTraining/patinko_umi/annotation/source/b_0022.png",
+            "size": {
+                "width": 640,
+                "height": 360
+            },
+            "state": 2,
+            "type": 1
+        },
+        "dcae4d2caad064000ad2f7f3890a4d15": {
+            "format": "png",
+            "id": "dcae4d2caad064000ad2f7f3890a4d15",
+            "name": "b_0023.png",
+            "path": "file:D:/%23WorkSpace/%23PersonalDevelop/other/CustomObjectDetection/annotationAndTraining/patinko_umi/annotation/source/b_0023.png",
+            "size": {
+                "width": 640,
+                "height": 360
+            },
+            "state": 2,
+            "type": 1
+        },
+        "0f3461dbfc880966610bce7154385eb5": {
+            "format": "png",
+            "id": "0f3461dbfc880966610bce7154385eb5",
+            "name": "b_0024.png",
+            "path": "file:D:/%23WorkSpace/%23PersonalDevelop/other/CustomObjectDetection/annotationAndTraining/patinko_umi/annotation/source/b_0024.png",
+            "size": {
+                "width": 640,
+                "height": 360
+            },
+            "state": 2,
+            "type": 1
+        },
+        "c54f7f2f698320d968c51fa3b4076e59": {
+            "format": "png",
+            "id": "c54f7f2f698320d968c51fa3b4076e59",
+            "name": "b_0025.png",
+            "path": "file:D:/%23WorkSpace/%23PersonalDevelop/other/CustomObjectDetection/annotationAndTraining/patinko_umi/annotation/source/b_0025.png",
+            "size": {
+                "width": 640,
+                "height": 360
+            },
+            "state": 2,
+            "type": 1
+        },
+        "a1de26e01d948adbd1eee2cf1d3c8c43": {
+            "format": "png",
+            "id": "a1de26e01d948adbd1eee2cf1d3c8c43",
+            "name": "b_0026.png",
+            "path": "file:D:/%23WorkSpace/%23PersonalDevelop/other/CustomObjectDetection/annotationAndTraining/patinko_umi/annotation/source/b_0026.png",
+            "size": {
+                "width": 640,
+                "height": 360
+            },
+            "state": 2,
+            "type": 1
+        },
+        "4da8b461bb50885ed4e7a051ac548cae": {
+            "format": "png",
+            "id": "4da8b461bb50885ed4e7a051ac548cae",
+            "name": "b_0027.png",
+            "path": "file:D:/%23WorkSpace/%23PersonalDevelop/other/CustomObjectDetection/annotationAndTraining/patinko_umi/annotation/source/b_0027.png",
+            "size": {
+                "width": 640,
+                "height": 360
+            },
+            "state": 2,
+            "type": 1
+        },
+        "e26595a2cfc2a11194495447e3571fe0": {
+            "format": "png",
+            "id": "e26595a2cfc2a11194495447e3571fe0",
+            "name": "b_0028.png",
+            "path": "file:D:/%23WorkSpace/%23PersonalDevelop/other/CustomObjectDetection/annotationAndTraining/patinko_umi/annotation/source/b_0028.png",
+            "size": {
+                "width": 640,
+                "height": 360
+            },
+            "state": 2,
+            "type": 1
+        },
+        "994c860bb919b8e1ec5b38356f8e882a": {
+            "format": "png",
+            "id": "994c860bb919b8e1ec5b38356f8e882a",
+            "name": "b_0029.png",
+            "path": "file:D:/%23WorkSpace/%23PersonalDevelop/other/CustomObjectDetection/annotationAndTraining/patinko_umi/annotation/source/b_0029.png",
+            "size": {
+                "width": 640,
+                "height": 360
+            },
+            "state": 2,
+            "type": 1
+        },
+        "d33147a67673254f0fb38ea3aa46fd9d": {
+            "format": "png",
+            "id": "d33147a67673254f0fb38ea3aa46fd9d",
+            "name": "b_0030.png",
+            "path": "file:D:/%23WorkSpace/%23PersonalDevelop/other/CustomObjectDetection/annotationAndTraining/patinko_umi/annotation/source/b_0030.png",
+            "size": {
+                "width": 640,
+                "height": 360
+            },
+            "state": 2,
+            "type": 1
+        },
+        "f6cdf4009e6a9521d9c35512255cd85a": {
+            "format": "png",
+            "id": "f6cdf4009e6a9521d9c35512255cd85a",
+            "name": "b_0031.png",
+            "path": "file:D:/%23WorkSpace/%23PersonalDevelop/other/CustomObjectDetection/annotationAndTraining/patinko_umi/annotation/source/b_0031.png",
+            "size": {
+                "width": 640,
+                "height": 360
+            },
+            "state": 2,
+            "type": 1
+        },
+        "80a3d72ffd7df35d6ba44cbf4507a219": {
+            "format": "png",
+            "id": "80a3d72ffd7df35d6ba44cbf4507a219",
+            "name": "b_0032.png",
+            "path": "file:D:/%23WorkSpace/%23PersonalDevelop/other/CustomObjectDetection/annotationAndTraining/patinko_umi/annotation/source/b_0032.png",
+            "size": {
+                "width": 640,
+                "height": 360
+            },
+            "state": 2,
+            "type": 1
+        },
+        "30e34b039c388dd70e3d0550817fac91": {
+            "format": "png",
+            "id": "30e34b039c388dd70e3d0550817fac91",
+            "name": "b_0033.png",
+            "path": "file:D:/%23WorkSpace/%23PersonalDevelop/other/CustomObjectDetection/annotationAndTraining/patinko_umi/annotation/source/b_0033.png",
+            "size": {
+                "width": 640,
+                "height": 360
+            },
+            "state": 2,
+            "type": 1
+        },
+        "5682fa424d519945b157b7354b8260c8": {
+            "format": "png",
+            "id": "5682fa424d519945b157b7354b8260c8",
+            "name": "b_0034.png",
+            "path": "file:D:/%23WorkSpace/%23PersonalDevelop/other/CustomObjectDetection/annotationAndTraining/patinko_umi/annotation/source/b_0034.png",
+            "size": {
+                "width": 640,
+                "height": 360
+            },
+            "state": 2,
+            "type": 1
+        },
+        "c396353c573afca946dad8c73e4f8153": {
+            "format": "png",
+            "id": "c396353c573afca946dad8c73e4f8153",
+            "name": "b_0035.png",
+            "path": "file:D:/%23WorkSpace/%23PersonalDevelop/other/CustomObjectDetection/annotationAndTraining/patinko_umi/annotation/source/b_0035.png",
+            "size": {
+                "width": 640,
+                "height": 360
+            },
+            "state": 2,
+            "type": 1
+        },
+        "c2ef4972a512a0ede87e55c5f592883b": {
+            "format": "png",
+            "id": "c2ef4972a512a0ede87e55c5f592883b",
+            "name": "b_0036.png",
+            "path": "file:D:/%23WorkSpace/%23PersonalDevelop/other/CustomObjectDetection/annotationAndTraining/patinko_umi/annotation/source/b_0036.png",
+            "size": {
+                "width": 640,
+                "height": 360
+            },
+            "state": 2,
+            "type": 1
+        },
+        "03d7811ad2e131400e04c150b5ab55f2": {
+            "format": "png",
+            "id": "03d7811ad2e131400e04c150b5ab55f2",
+            "name": "b_0037.png",
+            "path": "file:D:/%23WorkSpace/%23PersonalDevelop/other/CustomObjectDetection/annotationAndTraining/patinko_umi/annotation/source/b_0037.png",
+            "size": {
+                "width": 640,
+                "height": 360
+            },
+            "state": 2,
+            "type": 1
+        },
+        "2e246a272ba1340229ca61dc664f5f99": {
+            "format": "png",
+            "id": "2e246a272ba1340229ca61dc664f5f99",
+            "name": "b_0038.png",
+            "path": "file:D:/%23WorkSpace/%23PersonalDevelop/other/CustomObjectDetection/annotationAndTraining/patinko_umi/annotation/source/b_0038.png",
+            "size": {
+                "width": 640,
+                "height": 360
+            },
+            "state": 2,
+            "type": 1
+        },
+        "cdf8946dd7074493931e7b2623b825bf": {
+            "format": "png",
+            "id": "cdf8946dd7074493931e7b2623b825bf",
+            "name": "b_0039.png",
+            "path": "file:D:/%23WorkSpace/%23PersonalDevelop/other/CustomObjectDetection/annotationAndTraining/patinko_umi/annotation/source/b_0039.png",
+            "size": {
+                "width": 640,
+                "height": 360
+            },
+            "state": 2,
+            "type": 1
+        },
+        "fc6037a44cd85f948e26cf8dd8404989": {
+            "format": "png",
+            "id": "fc6037a44cd85f948e26cf8dd8404989",
+            "name": "b_0040.png",
+            "path": "file:D:/%23WorkSpace/%23PersonalDevelop/other/CustomObjectDetection/annotationAndTraining/patinko_umi/annotation/source/b_0040.png",
+            "size": {
+                "width": 640,
+                "height": 360
+            },
+            "state": 2,
+            "type": 1
+        },
+        "a0b142c31fd9e8486cb7af2c1a57c253": {
+            "format": "png",
+            "id": "a0b142c31fd9e8486cb7af2c1a57c253",
+            "name": "b_0041.png",
+            "path": "file:D:/%23WorkSpace/%23PersonalDevelop/other/CustomObjectDetection/annotationAndTraining/patinko_umi/annotation/source/b_0041.png",
+            "size": {
+                "width": 640,
+                "height": 360
+            },
+            "state": 2,
+            "type": 1
+        },
+        "4a349f1ccad2f8d1bb6d169b9a24646e": {
+            "format": "png",
+            "id": "4a349f1ccad2f8d1bb6d169b9a24646e",
+            "name": "b_0042.png",
+            "path": "file:D:/%23WorkSpace/%23PersonalDevelop/other/CustomObjectDetection/annotationAndTraining/patinko_umi/annotation/source/b_0042.png",
+            "size": {
+                "width": 640,
+                "height": 360
+            },
+            "state": 2,
+            "type": 1
+        },
+        "1667d27dcdb4d31a7857d734278e74b6": {
+            "format": "png",
+            "id": "1667d27dcdb4d31a7857d734278e74b6",
+            "name": "b_0043.png",
+            "path": "file:D:/%23WorkSpace/%23PersonalDevelop/other/CustomObjectDetection/annotationAndTraining/patinko_umi/annotation/source/b_0043.png",
+            "size": {
+                "width": 640,
+                "height": 360
+            },
+            "state": 2,
+            "type": 1
+        },
+        "3bd3f9942b0ef1545c312960b81fea1f": {
+            "format": "png",
+            "id": "3bd3f9942b0ef1545c312960b81fea1f",
+            "name": "b_0044.png",
+            "path": "file:D:/%23WorkSpace/%23PersonalDevelop/other/CustomObjectDetection/annotationAndTraining/patinko_umi/annotation/source/b_0044.png",
+            "size": {
+                "width": 640,
+                "height": 360
+            },
+            "state": 2,
+            "type": 1
+        },
+        "5513f7a0bd530538f42184f9bb2de464": {
+            "format": "png",
+            "id": "5513f7a0bd530538f42184f9bb2de464",
+            "name": "b_0045.png",
+            "path": "file:D:/%23WorkSpace/%23PersonalDevelop/other/CustomObjectDetection/annotationAndTraining/patinko_umi/annotation/source/b_0045.png",
+            "size": {
+                "width": 640,
+                "height": 360
+            },
+            "state": 2,
+            "type": 1
+        },
+        "6799c8fae07295e4f5dc1af7a75247fc": {
+            "format": "png",
+            "id": "6799c8fae07295e4f5dc1af7a75247fc",
+            "name": "b_0046.png",
+            "path": "file:D:/%23WorkSpace/%23PersonalDevelop/other/CustomObjectDetection/annotationAndTraining/patinko_umi/annotation/source/b_0046.png",
+            "size": {
+                "width": 640,
+                "height": 360
+            },
+            "state": 2,
+            "type": 1
+        },
+        "49683634dc349e1c13ad3419100880dd": {
+            "format": "png",
+            "id": "49683634dc349e1c13ad3419100880dd",
+            "name": "b_0047.png",
+            "path": "file:D:/%23WorkSpace/%23PersonalDevelop/other/CustomObjectDetection/annotationAndTraining/patinko_umi/annotation/source/b_0047.png",
+            "size": {
+                "width": 640,
+                "height": 360
+            },
+            "state": 2,
+            "type": 1
+        },
+        "62e3248aca24e558bcd007c6c2eb30ef": {
+            "format": "png",
+            "id": "62e3248aca24e558bcd007c6c2eb30ef",
+            "name": "b_0048.png",
+            "path": "file:D:/%23WorkSpace/%23PersonalDevelop/other/CustomObjectDetection/annotationAndTraining/patinko_umi/annotation/source/b_0048.png",
+            "size": {
+                "width": 640,
+                "height": 360
+            },
+            "state": 2,
+            "type": 1
+        },
+        "f436d2c93355145279a1e3dd59761341": {
+            "format": "png",
+            "id": "f436d2c93355145279a1e3dd59761341",
+            "name": "b_0049.png",
+            "path": "file:D:/%23WorkSpace/%23PersonalDevelop/other/CustomObjectDetection/annotationAndTraining/patinko_umi/annotation/source/b_0049.png",
+            "size": {
+                "width": 640,
+                "height": 360
+            },
+            "state": 2,
+            "type": 1
+        },
+        "e998e2b8ff221261b6f640abeadf3dbc": {
+            "format": "png",
+            "id": "e998e2b8ff221261b6f640abeadf3dbc",
+            "name": "b_0050.png",
+            "path": "file:D:/%23WorkSpace/%23PersonalDevelop/other/CustomObjectDetection/annotationAndTraining/patinko_umi/annotation/source/b_0050.png",
+            "size": {
+                "width": 640,
+                "height": 360
+            },
+            "state": 2,
+            "type": 1
+        },
+        "cf17f1f3650ca52d5cd8486d0f6c2556": {
+            "format": "png",
+            "id": "cf17f1f3650ca52d5cd8486d0f6c2556",
+            "name": "b_0051.png",
+            "path": "file:D:/%23WorkSpace/%23PersonalDevelop/other/CustomObjectDetection/annotationAndTraining/patinko_umi/annotation/source/b_0051.png",
+            "size": {
+                "width": 640,
+                "height": 360
+            },
+            "state": 2,
+            "type": 1
+        },
+        "351388cc42f2f1c9fbaf69d0223f7e5b": {
+            "format": "png",
+            "id": "351388cc42f2f1c9fbaf69d0223f7e5b",
+            "name": "b_0052.png",
+            "path": "file:D:/%23WorkSpace/%23PersonalDevelop/other/CustomObjectDetection/annotationAndTraining/patinko_umi/annotation/source/b_0052.png",
+            "size": {
+                "width": 640,
+                "height": 360
+            },
+            "state": 2,
+            "type": 1
+        },
+        "5d27baa5d4c154dc628247e6dcd5000c": {
+            "format": "png",
+            "id": "5d27baa5d4c154dc628247e6dcd5000c",
+            "name": "b_0053.png",
+            "path": "file:D:/%23WorkSpace/%23PersonalDevelop/other/CustomObjectDetection/annotationAndTraining/patinko_umi/annotation/source/b_0053.png",
+            "size": {
+                "width": 640,
+                "height": 360
+            },
+            "state": 2,
+            "type": 1
+        },
+        "e543e01a17944ed40579f05f17511367": {
+            "format": "png",
+            "id": "e543e01a17944ed40579f05f17511367",
+            "name": "b_0054.png",
+            "path": "file:D:/%23WorkSpace/%23PersonalDevelop/other/CustomObjectDetection/annotationAndTraining/patinko_umi/annotation/source/b_0054.png",
+            "size": {
+                "width": 640,
+                "height": 360
+            },
+            "state": 2,
+            "type": 1
+        },
+        "106491e569dfc0c61920b62568f3c16b": {
+            "format": "png",
+            "id": "106491e569dfc0c61920b62568f3c16b",
+            "name": "b_0055.png",
+            "path": "file:D:/%23WorkSpace/%23PersonalDevelop/other/CustomObjectDetection/annotationAndTraining/patinko_umi/annotation/source/b_0055.png",
+            "size": {
+                "width": 640,
+                "height": 360
+            },
+            "state": 2,
+            "type": 1
+        },
+        "7cf5324dd0d4a822019d04ab3e6fb258": {
+            "format": "png",
+            "id": "7cf5324dd0d4a822019d04ab3e6fb258",
+            "name": "b_0056.png",
+            "path": "file:D:/%23WorkSpace/%23PersonalDevelop/other/CustomObjectDetection/annotationAndTraining/patinko_umi/annotation/source/b_0056.png",
+            "size": {
+                "width": 640,
+                "height": 360
+            },
+            "state": 2,
+            "type": 1
+        },
+        "4442491a7d95daa1e4a3e116ffa9f43c": {
+            "format": "png",
+            "id": "4442491a7d95daa1e4a3e116ffa9f43c",
+            "name": "b_0057.png",
+            "path": "file:D:/%23WorkSpace/%23PersonalDevelop/other/CustomObjectDetection/annotationAndTraining/patinko_umi/annotation/source/b_0057.png",
+            "size": {
+                "width": 640,
+                "height": 360
+            },
+            "state": 2,
+            "type": 1
+        },
+        "babb7ac8bd4797eb350a71153a5ea482": {
+            "format": "png",
+            "id": "babb7ac8bd4797eb350a71153a5ea482",
+            "name": "b_0058.png",
+            "path": "file:D:/%23WorkSpace/%23PersonalDevelop/other/CustomObjectDetection/annotationAndTraining/patinko_umi/annotation/source/b_0058.png",
+            "size": {
+                "width": 640,
+                "height": 360
+            },
+            "state": 2,
+            "type": 1
+        },
+        "9831d2ddbfad0304aff36d91a3a05a79": {
+            "format": "png",
+            "id": "9831d2ddbfad0304aff36d91a3a05a79",
+            "name": "b_0059.png",
+            "path": "file:D:/%23WorkSpace/%23PersonalDevelop/other/CustomObjectDetection/annotationAndTraining/patinko_umi/annotation/source/b_0059.png",
+            "size": {
+                "width": 640,
+                "height": 360
+            },
+            "state": 2,
+            "type": 1
+        },
+        "8bce4790f32bfa260b153d61e5a445fa": {
+            "format": "png",
+            "id": "8bce4790f32bfa260b153d61e5a445fa",
+            "name": "b_0060.png",
+            "path": "file:D:/%23WorkSpace/%23PersonalDevelop/other/CustomObjectDetection/annotationAndTraining/patinko_umi/annotation/source/b_0060.png",
+            "size": {
+                "width": 640,
+                "height": 360
+            },
+            "state": 2,
+            "type": 1
+        },
+        "7da1aa02887d3ee875324f182a625b07": {
+            "format": "png",
+            "id": "7da1aa02887d3ee875324f182a625b07",
+            "name": "b_0061.png",
+            "path": "file:D:/%23WorkSpace/%23PersonalDevelop/other/CustomObjectDetection/annotationAndTraining/patinko_umi/annotation/source/b_0061.png",
+            "size": {
+                "width": 640,
+                "height": 360
+            },
+            "state": 2,
+            "type": 1
+        },
+        "867fb111022eb7ea35ec3771503c9a60": {
+            "format": "png",
+            "id": "867fb111022eb7ea35ec3771503c9a60",
+            "name": "b_0062.png",
+            "path": "file:D:/%23WorkSpace/%23PersonalDevelop/other/CustomObjectDetection/annotationAndTraining/patinko_umi/annotation/source/b_0062.png",
+            "size": {
+                "width": 640,
+                "height": 360
+            },
+            "state": 2,
+            "type": 1
+        },
+        "d3c3a576fe5b9ae158a54e25c53ef361": {
+            "format": "png",
+            "id": "d3c3a576fe5b9ae158a54e25c53ef361",
+            "name": "b_0063.png",
+            "path": "file:D:/%23WorkSpace/%23PersonalDevelop/other/CustomObjectDetection/annotationAndTraining/patinko_umi/annotation/source/b_0063.png",
+            "size": {
+                "width": 640,
+                "height": 360
+            },
+            "state": 2,
+            "type": 1
+        },
+        "6005e2c33846c483fcf64476b348e19f": {
+            "format": "png",
+            "id": "6005e2c33846c483fcf64476b348e19f",
+            "name": "b_0064.png",
+            "path": "file:D:/%23WorkSpace/%23PersonalDevelop/other/CustomObjectDetection/annotationAndTraining/patinko_umi/annotation/source/b_0064.png",
+            "size": {
+                "width": 640,
+                "height": 360
+            },
+            "state": 2,
+            "type": 1
+        },
+        "18370313396726c8d2a66bf6b22e8ade": {
+            "format": "png",
+            "id": "18370313396726c8d2a66bf6b22e8ade",
+            "name": "b_0065.png",
+            "path": "file:D:/%23WorkSpace/%23PersonalDevelop/other/CustomObjectDetection/annotationAndTraining/patinko_umi/annotation/source/b_0065.png",
+            "size": {
+                "width": 640,
+                "height": 360
+            },
+            "state": 2,
+            "type": 1
+        },
+        "2376e06610cf284a480cb623ad79e9e9": {
+            "format": "png",
+            "id": "2376e06610cf284a480cb623ad79e9e9",
+            "name": "b_0066.png",
+            "path": "file:D:/%23WorkSpace/%23PersonalDevelop/other/CustomObjectDetection/annotationAndTraining/patinko_umi/annotation/source/b_0066.png",
+            "size": {
+                "width": 640,
+                "height": 360
+            },
+            "state": 2,
+            "type": 1
+        },
+        "86ed012fda59dbb2603f28de6c06e447": {
+            "format": "png",
+            "id": "86ed012fda59dbb2603f28de6c06e447",
+            "name": "b_0067.png",
+            "path": "file:D:/%23WorkSpace/%23PersonalDevelop/other/CustomObjectDetection/annotationAndTraining/patinko_umi/annotation/source/b_0067.png",
+            "size": {
+                "width": 640,
+                "height": 360
+            },
+            "state": 2,
+            "type": 1
+        },
+        "2a87137ec598ab5f9f5dc76e9130bd95": {
+            "format": "png",
+            "id": "2a87137ec598ab5f9f5dc76e9130bd95",
+            "name": "b_0068.png",
+            "path": "file:D:/%23WorkSpace/%23PersonalDevelop/other/CustomObjectDetection/annotationAndTraining/patinko_umi/annotation/source/b_0068.png",
+            "size": {
+                "width": 640,
+                "height": 360
+            },
+            "state": 2,
+            "type": 1
+        },
+        "c249e87343855b5c8ed53fdd9ad16696": {
+            "format": "png",
+            "id": "c249e87343855b5c8ed53fdd9ad16696",
+            "name": "b_0069.png",
+            "path": "file:D:/%23WorkSpace/%23PersonalDevelop/other/CustomObjectDetection/annotationAndTraining/patinko_umi/annotation/source/b_0069.png",
+            "size": {
+                "width": 640,
+                "height": 360
+            },
+            "state": 2,
+            "type": 1
+        }
+    }
+}

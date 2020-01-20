@@ -1,0 +1,8 @@
+item {
+ id: 1
+ name: '2a'
+}
+item {
+ id: 2
+ name: 'button'
+}

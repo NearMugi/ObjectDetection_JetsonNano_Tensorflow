@@ -1,0 +1,2 @@
+MODEL_PATH="../targetModel/patinko_umi/191024"
+MODEL="model.ckpt-392"

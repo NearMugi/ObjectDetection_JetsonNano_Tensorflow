@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "png",
+        "id": "4442491a7d95daa1e4a3e116ffa9f43c",
+        "name": "b_0057.png",
+        "path": "file:D:/%23WorkSpace/%23PersonalDevelop/other/CustomObjectDetection/annotationAndTraining/patinko_umi/annotation/source/b_0057.png",
+        "size": {
+            "width": 640,
+            "height": 360
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "EiyliimKZj",
+            "type": "RECTANGLE",
+            "tags": [
+                "button"
+            ],
+            "boundingBox": {
+                "height": 70.58823529411765,
+                "width": 97.03652653342523,
+                "left": 129.6760854583046,
+                "top": 178.2766544117647
+            },
+            "points": [
+                {
+                    "x": 129.6760854583046,
+                    "y": 178.2766544117647
+                },
+                {
+                    "x": 226.71261199172986,
+                    "y": 178.2766544117647
+                },
+                {
+                    "x": 226.71261199172986,
+                    "y": 248.86488970588235
+                },
+                {
+                    "x": 129.6760854583046,
+                    "y": 248.86488970588235
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}
