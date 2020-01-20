@@ -1,2 +1,4 @@
-# ObjectDetection_JetsonNano_Tensorflow
-Tensorflow "ObjectDetection API" with JetsonNano
+# Tensorflow "Object Detection API" with JetsonNano
+
+* Annotation and Training procedure
+* Set up JetsonNano Folder
