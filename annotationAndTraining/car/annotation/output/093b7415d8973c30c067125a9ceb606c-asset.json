@@ -1,0 +1,62 @@
+{
+    "asset": {
+        "id": "093b7415d8973c30c067125a9ceb606c",
+        "format": "066667",
+        "state": 2,
+        "type": 3,
+        "name": "orochi.mp4#t=5.066667",
+        "path": "file:D:/%23WorkSpace/ObjectDetection_JetsonNano_Tensorflow/annotationAndTraining/car/annotation/source/orochi.mp4#t=5.066667",
+        "size": {
+            "width": 480,
+            "height": 270
+        },
+        "parent": {
+            "format": "mp4",
+            "id": "9f60f090b5a2731176f5db2fa45e9ca7",
+            "name": "orochi.mp4",
+            "path": "file:D:/%23WorkSpace/ObjectDetection_JetsonNano_Tensorflow/annotationAndTraining/car/annotation/source/orochi.mp4",
+            "size": {
+                "width": 480,
+                "height": 270
+            },
+            "state": 1,
+            "type": 2
+        },
+        "timestamp": 5.066667,
+        "predicted": true
+    },
+    "regions": [
+        {
+            "id": "qVhWdl2N6",
+            "type": "RECTANGLE",
+            "tags": [
+                "orochi"
+            ],
+            "boundingBox": {
+                "left": 207.35383987426758,
+                "top": 71.8899017572403,
+                "width": 101.1221694946289,
+                "height": 100.0321912765503
+            },
+            "points": [
+                {
+                    "x": 207.35383987426758,
+                    "y": 71.8899017572403
+                },
+                {
+                    "x": 308.4760093688965,
+                    "y": 71.8899017572403
+                },
+                {
+                    "x": 308.4760093688965,
+                    "y": 171.9220930337906
+                },
+                {
+                    "x": 207.35383987426758,
+                    "y": 171.9220930337906
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

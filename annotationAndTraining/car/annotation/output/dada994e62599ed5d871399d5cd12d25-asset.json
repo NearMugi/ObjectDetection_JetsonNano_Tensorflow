@@ -1,0 +1,62 @@
+{
+    "asset": {
+        "id": "dada994e62599ed5d871399d5cd12d25",
+        "format": "266667",
+        "state": 2,
+        "type": 3,
+        "name": "orochi.mp4#t=9.266667",
+        "path": "file:D:/%23WorkSpace/ObjectDetection_JetsonNano_Tensorflow/annotationAndTraining/car/annotation/source/orochi.mp4#t=9.266667",
+        "size": {
+            "width": 480,
+            "height": 270
+        },
+        "parent": {
+            "format": "mp4",
+            "id": "9f60f090b5a2731176f5db2fa45e9ca7",
+            "name": "orochi.mp4",
+            "path": "file:D:/%23WorkSpace/ObjectDetection_JetsonNano_Tensorflow/annotationAndTraining/car/annotation/source/orochi.mp4",
+            "size": {
+                "width": 480,
+                "height": 270
+            },
+            "state": 1,
+            "type": 2
+        },
+        "timestamp": 9.266667,
+        "predicted": true
+    },
+    "regions": [
+        {
+            "id": "8Yp-7xIZ8C",
+            "type": "RECTANGLE",
+            "tags": [
+                "bicycle"
+            ],
+            "boundingBox": {
+                "left": 180.3137969970703,
+                "top": 42.74071767926216,
+                "width": 181.0568618774414,
+                "height": 95.80015227198601
+            },
+            "points": [
+                {
+                    "x": 180.3137969970703,
+                    "y": 42.74071767926216
+                },
+                {
+                    "x": 361.3706588745117,
+                    "y": 42.74071767926216
+                },
+                {
+                    "x": 361.3706588745117,
+                    "y": 138.54086995124817
+                },
+                {
+                    "x": 180.3137969970703,
+                    "y": 138.54086995124817
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}
